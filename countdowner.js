@@ -59,7 +59,7 @@ var Countdown = new Vue({
   el: el,
 
   template: ` 
-  <div class="flip-clock" data-date="2017-02-11" @click="update">
+  <div class="flip-clock" data-date="2021-06-10" @click="update">
     <tracker 
       v-for="tracker in trackers"
       :property="tracker"
@@ -108,7 +108,8 @@ var Countdown = new Vue({
       if (date) {
         this.countdown = moment(date, 'YYYY-MM-DD HH:mm:ss');
       } else {
-        this.countdown = moment().endOf('day'); //this.$el.getAttribute('data-date');
+		this.countdown = moment.tz("2021-07-10 09:00", "America/Los_Angeles");
+        //this.countdown = moment().endOf('day');
       }
     },
 
