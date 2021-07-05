@@ -8,28 +8,27 @@ TODO: finish schedule
 
 | Time (PDT)  | Time (CEST) | Session   | Live Operator  | Tech Check  |
 | ------------- | --- |-------------| -----| ------ |
-| **07:00 - 7:30** | **16:00 - 16:30** | **Opening Ceremony by Alex** | Alex | Daniel & Mario |
-| 07:30 - 08:30 | 16:30 - 17:30 | Session James Grenning | Alex | Daniel & Mario |
-| 08:35 - 09:35 | 17:35 - 18:35 | Session GeePaw Hill |  Alex | Daniel & Mario |
-| 09:40 - 10:10 | 18:40 - 19:10 | Session Ola Kunysz | Alex | Daniel & Mario |
-| 10:15 - 10:55 | 19:15 - 19:55 | Session Olena Borzenko |  Alex | Daniel & Mario |
-| 11:00 - 11:45 | 20:00 - 20:45 | Session Francisco Climent |  Alex | Daniel & Mario |
-| 11:50 - 12:25 | 20:50 - 21:25 | Session Liz Keogh |  Alex | Daniel & Mario |
-| 12:30 - 13:10 | 21:30 - 22:10 | Session Jov Mit |  Alex | Daniel & Mario |
-| 13:15 - 14:00 | 22:15 - 23:00 | Session Jan Giacomelli |  Alex | Daniel & Mario |
-| 14:05 - 14:35 | 23:05 - 23:35 | Session Mario Cervera |  Alex | Daniel & Mario |
-| 14:40 - 15:10 | 23:40 - 00:10 | Session Daniel Moka |  Alex | Daniel & Mario |
-| 15:10 - 15:45 | 00:10 - 00:45 | **BREAK 35mins** |  Alex | Daniel & Mario |
-| 15:45 - 16:15 | 00:45 - 01:15 | Session Ragunath Jawahar |  Alex | Daniel & Mario |
-| 16:20 - 16:50 | 01:20 - 01:50 | Session Meenakshi Dhanani |  Alex | Daniel & Mario |
-| 16:55 - 17:25 | 01:55 - 02:25 | Session Anne LoVerso |  Alex | Daniel & Mario |
-| 17:30 - 18:00 | 02:30 - 03:00 | Session Maxi |  Alex | Daniel & Mario |
-| 18:05 - 18:35 | 03:05 - 03:35 | **Closing keynote: Alex** |  Alex | Daniel & Mario |
+| **07:00 - 7:30** | **16:00 - 16:30** | **Opening Ceremony by Alex** | Alex & Dave | Daniel & Mario |
+| 07:15 - 08:15 | 16:15 - 17:15 | Session James Grenning | Alex & Dave | Daniel & Mario |
+| 08:20 - 09:20 | 17:20 - 18:20 | Session GeePaw Hill |  Alex & Dave | Daniel & Mario |
+| 09:25 - 09:55 | 18:25 - 18:55 | Session Meenakshi Dhanani | Alex & Dave | Daniel & Mario |
+| 10:00 - 10:30 | 19:00 - 19:30 | Session Ola Kunysz |  Alex & Dave | Daniel & Mario |
+| 10:35 - 11:15 | 19:35 - 20:15 | Session Olena Borzenko |  Alex & Dave | Daniel & Mario |
+| 11:20 - 12:00 | 20:20 - 21:00 | Session Francisco Climent |  Alex & Dave | Daniel & Mario |
+| 12:05 - 12:50 | 21:05 - 21:50 | Session Liz Keogh |  Alex & Dave | Daniel & Mario |
+| 12:55 - 13:35 | 21:55 - 22:35 | Session Jov Mit |  Alex & Maxi | Daniel & Mario |
+| 13:40 - 14:10 | 22:40 - 23:10 | Session Mario Cervera |  Alex & Maxi | Daniel & Mario |
+| 14:15 - 14:45 | 23:15 - 23:45 | Session Daniel Moka |  Alex & Maxi | Daniel & Mario |
+| 14:45 - 15:30 | 23:45 - 00:30 | **BREAK 45mins** |  Alex & Maxi | Daniel & Mario |
+| 15:30 - 16:00 | 00:30 - 01:00 | Session Ragunath Jawahar |  Alex & Maxi | Daniel & Mario |
+| 16:05 - 16:50 | 01:05 - 01:50 | Session Jan Giacomelli |  Alex & Maxi | Daniel & Mario |
+| 16:55 - 17:25 | 01:55 - 02:25 | Session Maxi |  Alex & Maxi | Daniel & Mario |
+| 17:30 - 18:00 | 02:30 - 03:00 | **Closing keynote: Alex** |  Alex & Maxi | Daniel & Mario |
 
 # Important things (Tech Check)
-* Glenn will be the Tech Check person and be in the Tech Check studio. He will be the only one giving out links to the live studio
+* Daniel and Mario will be the Tech Check person and be in the Tech Check studio. They will be the ones giving out links to the live studio
 * Tech check is: add speaker to the stream, hear if you can hear them, see if you can see them, ask them to share the screen, after that we trust all is good
-* **!!! GLENN WHATEVER YOU DO, DO NOT POST THE LIVE LINK IN THE PUBLIC COMMENTS !!!**
+* **!!! TECH CHECKER, DO NOT POST THE LIVE LINK IN THE PUBLIC COMMENTS !!!**
 
 # Important things (Live)
 * Make sure to press Go Live somewhere just before 9am, make sure to **NOT PRESS THAT AGAIN** before we are completely done.
