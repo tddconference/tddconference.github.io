@@ -8,7 +8,7 @@ TODO: finish schedule
 
 | Time (PDT)  | Time (CEST) | Session   | Live Operator  | Tech Check  |
 | ------------- | --- |-------------| -----| ------ |
-| **07:00 - 7:30** | **16:00 - 16:30** | **Opening Ceremony by Alex** | Alex & Dave | Daniel & Mario |
+| **07:00 - 7:15** | **16:00 - 16:15** | **Opening Ceremony by Alex** | Alex & Dave | Daniel & Mario |
 | 07:15 - 08:15 | 16:15 - 17:15 | Session James Grenning | Alex & Dave | Daniel & Mario |
 | 08:20 - 09:20 | 17:20 - 18:20 | Session GeePaw Hill |  Alex & Dave | Daniel & Mario |
 | 09:25 - 09:55 | 18:25 - 18:55 | Session Meenakshi Dhanani | Alex & Dave | Daniel & Mario |
