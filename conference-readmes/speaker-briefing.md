@@ -23,7 +23,7 @@ Event: [TDD Conf 2021](http://tddconf.com) 10th July 2021
 
 | Time (PDT)  | Time (CEST) | Session  
 | ------------- | --- |-------------
-| **07:00 - 7:15** | **16:00 - 16:15** | **Opening Ceremony by Alex** 
+| **07:00 - 07:15** | **16:00 - 16:15** | **Opening Ceremony by Alex** 
 | 07:15 - 08:15 | 16:15 - 17:15 | Session James Grenning
 | 08:20 - 09:20 | 17:20 - 18:20 | Session GeePaw Hill 
 | 09:25 - 09:55 | 18:25 - 18:55 | Session Meenakshi Dhanani 
