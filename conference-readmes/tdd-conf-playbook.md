@@ -1,6 +1,6 @@
 # Links
-* Speaker gist: TODO: Add link for speaker speaker briefing
-* Tech Check Studio: TODO: add link for audio check
+* Speaker gist: [Readme link](https://github.com/tddconference/tddconference.github.io/blob/main/conference-readmes/speaker-briefing.md)
+* Tech Check Studio: [Tech Check link](https://streamyard.com/sg6ngkeisy)
 
 # Schedule
 
