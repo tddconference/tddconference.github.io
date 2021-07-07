@@ -21,24 +21,24 @@ Event: [TDD Conf 2021](http://tddconf.com) 10th July 2021
 * After the stream and you're taken out of the broadcast, you can check in with us in the **private chat**, that means **not the Comments** that is the public chat on YouTube. But you can also just leave :)
 * You are awesome, thank you for sharing your valuable time and content with us and the community.
 
-| Time (PDT)  | Time (CEST) | Session   |
-| ------------- | --- |-------------| -----| ------ |
-| **07:00 - 7:15** | **16:00 - 16:15** | **Opening Ceremony by Alex** | 
-| 07:15 - 08:15 | 16:15 - 17:15 | Session James Grenning | 
-| 08:20 - 09:20 | 17:20 - 18:20 | Session GeePaw Hill | 
-| 09:25 - 09:55 | 18:25 - 18:55 | Session Meenakshi Dhanani | 
-| 10:00 - 10:30 | 19:00 - 19:30 | Session Ola Kunysz | 
-| 10:35 - 11:15 | 19:35 - 20:15 | Session Olena Borzenko |  
-| 11:20 - 12:00 | 20:20 - 21:00 | Session Francisco Climent |  
-| 12:05 - 12:50 | 21:05 - 21:50 | Session Liz Keogh | 
-| 12:55 - 13:35 | 21:55 - 22:35 | Session Jov Mit |  
-| 13:40 - 14:10 | 22:40 - 23:10 | Session Mario Cervera | 
-| 14:15 - 14:45 | 23:15 - 23:45 | Session Daniel Moka |  
-| 14:45 - 15:30 | 23:45 - 00:30 | **BREAK 45mins** | 
-| 15:30 - 16:00 | 00:30 - 01:00 | Session Ragunath Jawahar |  
-| 16:05 - 16:50 | 01:05 - 01:50 | Session Jan Giacomelli | 
-| 16:55 - 17:25 | 01:55 - 02:25 | Session Maxi | 
-| 17:30 - 18:00 | 02:30 - 03:00 | **Closing keynote: Alex** |  
+| Time (PDT)  | Time (CEST) | Session  
+| ------------- | --- |-------------
+| **07:00 - 7:15** | **16:00 - 16:15** | **Opening Ceremony by Alex** 
+| 07:15 - 08:15 | 16:15 - 17:15 | Session James Grenning
+| 08:20 - 09:20 | 17:20 - 18:20 | Session GeePaw Hill 
+| 09:25 - 09:55 | 18:25 - 18:55 | Session Meenakshi Dhanani 
+| 10:00 - 10:30 | 19:00 - 19:30 | Session Ola Kunysz 
+| 10:35 - 11:15 | 19:35 - 20:15 | Session Olena Borzenko 
+| 11:20 - 12:00 | 20:20 - 21:00 | Session Francisco Climent  
+| 12:05 - 12:50 | 21:05 - 21:50 | Session Liz Keogh 
+| 12:55 - 13:35 | 21:55 - 22:35 | Session Jov Mit 
+| 13:40 - 14:10 | 22:40 - 23:10 | Session Mario Cervera
+| 14:15 - 14:45 | 23:15 - 23:45 | Session Daniel Moka 
+| 14:45 - 15:30 | 23:45 - 00:30 | **BREAK 45mins** 
+| 15:30 - 16:00 | 00:30 - 01:00 | Session Ragunath Jawahar
+| 16:05 - 16:50 | 01:05 - 01:50 | Session Jan Giacomelli 
+| 16:55 - 17:25 | 01:55 - 02:25 | Session Maxi 
+| 17:30 - 18:00 | 02:30 - 03:00 | **Closing keynote: Alex** 
 
 # What is StreamYard?
 StreamYard is an online application that allows us to host a live-stream without too much hassle.
